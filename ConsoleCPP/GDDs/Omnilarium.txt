@@ -1,0 +1,127 @@
+Omnilarium
+por: Airon Bruce
+
+1. Introducao
+Plataforma: PC
+Faixa Etaria: Juvenil
+Classificacao: Livre/12 (violencia cartunizada)
+1.1. Genero
+Hack and Slash, Flight Sim. Tracos de Plataforma.
+1.2 Tema
+Uma liberdade aprisionante.
+1.3. Publico-alvo
+Fas de fantasia, ficcao cientifica e/ou jogos de aventura.
+
+1.4. Caracteristicas gerais
+Um jogo de aventura situado em pequenos planetas;
+Sistemas de combate e exploracao tanto em terra quanto no espaco;
+Mapas 3D utilizando ao maximo o ambiente e a gravidade entre os corpos.
+
+1.5. Resumo da historia
+Um astronauta se encontra num sistema solar nao-catalogado apos um acidente com um asteroide. Apos reparar sua nave, descobre que esta preso naquele espaco – tentar sair o traz de volta para o sistema. Logo, como o unico dotado de viagem espacial livre, tenta ajudar a populacao local.
+
+2. Marketing
+2.1. Diferenciais de vendas
+Hack and Slash tridimensional em esferas;
+Progressao nao linear, em “pedacos” intercalaveis;
+Mecanicas de exploracao em voo;
+Mecanicas de exploracao incrementais, de acordo com as ferramentas adquiridas.
+
+2.2. Produtos semelhantes
+Franquia The Legend of Zelda
+Outer Wilds
+O Pequeno Principe
+
+2.3. Elevator pitch
+Explore os planetas de um minusculo sistema solar que prende todos os que o visitam, e desvenda os misterios de uma estranha populacao e o que os afligem.
+
+3. Gameplay
+3.1. Movimentacao Controle
+Movimentacao em terra (bidirecional, baseado na posicao do personagem);
+Movimentacao em g0 (onidirecional, baseado na posicao da camera);
+Botoes de acao para combate e uso de itens.
+Os controles entre o personagem e a nave sao os mesmos, mas a nave e muito maior, e o personagem pode explorar em terra.
+
+3.2. Core Loop
+Loop geral: Exploracao de mapa, combate com inimigos, aquisicao de itens.
+Loop 1 (Overworld): Exploracao de mapa, combate com inimigos, aquisicao de itens (drops, cura, dinheiro), conversa com NPCs.
+Loop 2 (Missoes): Aquisicao de missoes, exploracao de mapa, exploracao de masmorra, combate com inimigos, aquisicao de habilidade, combate com chefe.
+
+3.3. Objetivos e Acao
+- Aterrissagem em um dos tres planetas (Fogo, Agua ou Terra);
+- Reparos da nave com o ferreiro local;
+- Resolucao de ao menos uma das masmorras entre os 3 planetas;
+- Liberacao do planeta Ar, resolucao de ao menos 2 das masmorras remanescentes;
+- Liberacao do acesso a nave cruzeiro abandonada, resolucao das 2 masmorras remanescentes;
+- Liberacao da masmorra final, destruicao da (entidade? Sistema?) que prende os individuos no sistema.
+Ao longo da compleicao dos objetivos, as habilidades sao incrementadas e adicionadas.
+
+3.4. Objetos
+3.4.1. Equipamento
+Espada
+Rifle-canhao
+
+3.4.2. Itens
+Item de cura
+Dinheiro
+
+4. Estruturas
+4.1. Interface (HUD)
+
+4.2. Camera
+3a pessoa atras do personagem
+
+4.3. Musicas e efeitos de som
+
+5. Historia e mundo
+5.1. Historia do jogo
+5.1.1. Antes do jogo:
+Uma nave de cruzeiro espacial, com o objetivo de descobrir novos sistemas habitaveis, se encontra no sistema solar do jogo. Apos pesquisas, descobrem que todo o sistema e habitavel, com potencial de uma colônia interplanetaria. Registraram suas pesquisas e partiram para o proximo sistema, mas acabaram voltando para o mesmo lugar. 
+Depois de meses presos na nave, tentando escapar o sistema, os suprimentos estavam acabando e uma ameaca afligia a nave, entao tiveram que evacuar e construir colônias em cada planeta. Nao puderam recuperar nenhuma tecnologia avancada alem das capsulas de escape, entao as colônias tiveram que se desenvolver de quase 0, sem comunicacao efetiva entre os planetas.
+
+5.1.2. Comeco do jogo: 
+Um astronauta em viagem solo se acidenta com um asteroide, o que lanca sua nave para um sistema solar proximo. Apos escolher um planeta para executar um pouso de emergencia, precisa ir atras das pecas essenciais que foram espalhadas pelo planeta, incluindo o motor da nave.
+Apos recuperar as pecas, o astronauta encontra e faz contato com uma civilizacao local. La, se encontra com um ferreiro que estranhamente sabe sobre reparos de naves, que repara a sua, o permitindo sair do planeta. Ao tentar sair do sistema para retornar a sua missao, se encontra novamente dentro do sistema, sem conseguir escapar. Ao comunicar com o povoado, descobre que eles tambem se depararam com este problema, e estao presos no sistema ha seculos.
+
+5.1.3. A aventura: 
+O astronauta viaja para cada planeta e resolve os problemas de cada populacao, como o unico dotado de ferramentas avancadas e viagem espacial. Com cada resolucao, consegue tambem ferramentas novas, que auxiliam na exploracao dos planetas. Com conhecimentos adquiridos, o objetivo se torna liberar a maldicao que prende todos os individuos de dentro do sistema.
+Eventualmente, quando o astronauta se depara com a morte, se encontra de volta a vida. O que prende os individuos no sistema nao permite o escape nem mesmo pela morte, o que tambem revela que de todos esses seculos, a populacao que esta presa no sistema sempre foi a mesma, os individuos com centenas de anos de idade.
+
+5.2 Personagens
+- Astronauta (protagonista)
+- NPCs Amigos
+- Inimigos
+
+5.3. Mapas
+Um sistema solar com 4 planetoides exagerados representando diferentes elementos.
+O sistema esta envolto em uma (bolha?) que previne qualquer um de sair do sistema.
+Cada planeta possui uma pequena civilizacao que, apesar de conhecimentos avancados, esta presa com equipamento rudimentar. Os resquicios de tecnologia estao em ruinas ou foram reaproveitados para usos diferentes dos originais.
+Nota-se que cada planeta possui apenas uma “masmorra principal”, mas isso nao limita quantas masmorras “secundarias” o planeta pode possuir.
+
+5.3.1 Planeta “Terra”
+Segundo planeta do sol, preso por forcas tidais. E um enorme geodo, que mantem sua forma gracas a uma arvore gigantesca que enraizou todo o subterraneo. Sua copa encobre toda a superficie, mas ainda permite uma pequena quantidade de luz passar, deixando o lado voltado ao sol habitavel.
+A populacao construiu um pequeno vilarejo na base da arvore, com fazendas construidas nas regioes superiores da arvore. Construiram tambem uma rede de mineracao, que ruiu apos (problema a ser definido).
+A masmorra do planeta e a mina, onde o objetivo e descer cada vez mais, a gravidade diminuindo ao se aproximar do centro oco do planeta.
+
+5.3.2 Planeta “Fogo”
+Planeta mais proximo do sol, consiste em um grande deserto bombardeado por meteoritos, com uma alta cidade de barro em um polo, e dois vulcoes ativos do outro. Grandes carstes e pedreiras tambem marcam o deserto. A fumaca e detritos formaram um anel ao redor do planeta.
+A civilizacao local construiu a cidade, e instituiu um sistema semelhante a uma monarquia.
+Masmorra a definir
+
+5.3.3 Planeta “Agua”
+Planeta mais distante, possui 8 montanhas que fazem a forma do planeta se assemelhar a um cubo. O polo norte e o lar da cidade instituida no planeta, possui um lago que sempre esta liquido. O polo sul possui geleiras rachadas por geiseres que cospem agua frequentemente. O equador possui um oceano em maior parte subterraneo, atraido fortemente pela lua do planeta. As mares causam uma hidratacao e corrosao constante da superficie, formando pantanos e canions.
+Civilizacao a definir
+A masmorra consiste em mecanicas gravitacionais baseadas na posicao da lua, onde a gravidade influenciada pode favorecer ou inibir a movimentacao do jogador ou de inimigos.
+
+5.3.3.1 Lua do “Planeta Agua”
+Uma pequena lua que orbita quase no limite Roche de sua matriz, e e presa a forcas tidais.
+No lado oposto a matriz, se situa uma grande cratera inundada. A agua flui dessa cratera ao lado oposto, onde uma (relativamente) enorme montanha se formou pelo impuxe gravitacional. A agua “chove” dessa montanha para a matriz.
+A parte final da masmorra envolve um lancamento do jogador da matriz para esta lua, atraves de um buraco no topo da montanha. O chefe se encontra dentro desta lua.
+
+5.3.4 Planeta “Ar”
+Uma esfera gasosa repleta em nuvens ao redor do sol. Nao ha terra propriamente dita, mas o ceu e populado por varias ilhas flutuantes. Pela proximidade da estrela, a gravidade e forte, logo, nao e recomendado tentar pular de ilha em ilha por fora da nave.
+A civilizacao vive em uma grande aeronave que constantemente viaja ao redor do sol.
+A masmorra se situa fixa no polo norte do sol. Suas mecanicas envolvem viagens orbitais ao redor da estrela.
+
+5.3.5 Nave-cruzeiro abandonada
+Um ambiente tecnologico em ruinas, em 0g. A exploracao e feita, em maior parte, dentro da nave do jogador. 

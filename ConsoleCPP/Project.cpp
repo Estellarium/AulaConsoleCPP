@@ -1,6 +1,7 @@
 #include <iostream>s
 
 #include "Project.h"
+#include "FileReader.h"
 
 
 void loadProject()
@@ -28,7 +29,7 @@ void ShowMainMenu()
 		std::cin >> op;
 		switch (op)
 		{
-		case 1: std::cout << "Jogo 1";
+		case 1: printFile("Omnilarium");
 		default:
 			break;
 		}
